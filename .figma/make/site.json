@@ -1,0 +1,10 @@
+{
+  "description": "Explore contemporary art exhibitions and discover emerging artists through an engaging online gallery designed for art enthusiasts and collectors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
